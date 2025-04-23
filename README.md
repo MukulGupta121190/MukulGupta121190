@@ -19,11 +19,9 @@
   
 - 🛠️ Tech Stack: **SQL, Python, Excel, Power BI, Machine Learning, Deep Learning, NLP, LLM, Generative AI, Hugging Face, Langchain, Data Warehousing, PostgreSql, SSMS, ETL/ELT.**
 
-<!-- - 👨‍💻 Checkout my BI Portfolio: **[https://linktr.ee/shahrukh2016](https://linktr.ee/shahrukh2016)** -->
+- 👨‍💻 Checkout my BI Portfolio: **[https://linktr.ee/mukulgupta121190](https://linktr.ee/mukulgupta121190)**
 
 - 💬 Ask me about: **SQL, Python, Machine Learning, LLMs**
-
-<!-- - 🚀 Model Deployment (Netflix Recommender System): [Web App](https://huggingface.co/spaces/Shahrukh2016/Netflix_Recommender) -->
 
 
 - 📫 How to reach me: **mukulgupta121190@gmail.com** | **https://www.linkedin.com/in/mukulgupta0991/**
