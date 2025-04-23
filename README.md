@@ -33,7 +33,7 @@
 <a href="https://www.linkedin.com/in/mukulgupta0991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukulgupta0991" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukulgupta121190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukulgupta121190" height="30" width="40" /></a>
 <a href="https://medium.com/@mukulgupta121190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mukulgupta121190" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mukulgupta26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukulgupta26" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mukulgupta1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mukulgupta1990" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
