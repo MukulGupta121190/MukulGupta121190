@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on **[https://mukulgupta121190.medium.com/](https://mukulgupta121190.medium.com/)**
 
-- 💬 Ask me about: **SQL, Python, Machine Learning, LLMs**
+- 💬 Ask me about: **SQL, Python, Machine Learning, LLMs, Generative AI**
 
 - 📫 How to reach me: **mukulgupta121190@gmail.com** | **https://www.linkedin.com/in/mukulgupta0991/**
 
