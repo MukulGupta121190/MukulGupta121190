@@ -47,7 +47,14 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mukulgupta121190&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulgupta121190&show_icons=true&locale=en&size_weight=0.2&count_weight=0.8" alt="mukulgupta121190" /></p>
 
+# 📊 GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukulgupta121190&show_icons=true&locale=en&size_weight=0.2&count_weight=0.8" alt="mukulgupta121190" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukulgupta121190&show_icons=true&locale=en&theme=cobalt" alt="mukulgupta121190" /></p>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mukulgupta121190&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+</div>
+
 
