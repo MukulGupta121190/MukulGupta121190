@@ -1,10 +1,9 @@
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulgupta121190&label=Profile%20views&color=0e75b6&style=flat" alt="mukulgupta121190" /> </p>
 <h1 align="center">Hi 👋, I'm Mukul Gupta</h1>
-<h2 align="center">Project Manager at AiDash Systems Pvt Ltd</h2>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukulgupta121190&label=Profile%20views&color=0e75b6&style=flat" alt="mukulgupta121190" /> </p>
-
+<h2 align="left">About Me</h2>
 - 🔭 I’m currently working as a Project Manager: **@AiDash Systems Pvt Ltd**
 
 - 🌱 Currently learning: **LLM and Generative AI**
