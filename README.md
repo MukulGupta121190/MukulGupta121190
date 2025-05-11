@@ -35,11 +35,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mukulgupta0991)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:mukulgupta121190@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/mukulgupta121190)
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-black?style=flat&logo=gitlab)](https://gitlab.com/mukulgupta121190)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/mukulgupta1990)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat&logo=huggingface)](https://huggingface.co/MukulGupta121190)
 [![Hacker Rank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat)](https://www.hackerrank.com/profile/mukulgupta121190)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@mukulgupta121190)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
