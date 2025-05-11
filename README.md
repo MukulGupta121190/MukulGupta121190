@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mukul Gupta</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
 <h2 align="left">About Me</h2>
 - 🔭 I’m currently working as a Project Manager: **@AiDash Systems Pvt Ltd**
 
