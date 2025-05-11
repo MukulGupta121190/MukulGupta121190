@@ -21,6 +21,7 @@
 
 - 📫 How to reach me: **mukulgupta121190@gmail.com** | **https://www.linkedin.com/in/mukulgupta0991/**
 
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mukulgupta0991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukulgupta0991" height="30" width="40" /></a>
@@ -28,6 +29,17 @@
 <a href="https://medium.com/mukulgupta121190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mukulgupta121190" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mukulgupta121190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukulgupta121190" height="30" width="40" /></a>
 </p>
+-->
+### Platforms :octocat: 
+<!--Markdown badges via Shields.io-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mukulgupta0991)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:mukulgupta121190@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/mukulgupta121190)
+[![GitLab](https://img.shields.io/badge/GitLab-Profile-black?style=flat&logo=gitlab)](https://gitlab.com/mukulgupta121190)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/mukulgupta1990)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat&logo=huggingface)](https://huggingface.co/MukulGupta121190)
+[![Hacker Rank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=flat)](https://www.hackerrank.com/profile/mukulgupta121190)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
